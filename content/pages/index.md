@@ -72,7 +72,7 @@ sections:
             label: To the page
             url: 'https://docs.netlify.com/create/overview'
       - type: Card
-        title: Third Card Title
+        title: Restaurant Walhalla
         image:
           type: Image
           url: /images/ts.svg
