@@ -15,12 +15,6 @@
                 "label": "About",
                 "url": "/about",
                 "underline": "hover"
-            },
-            {
-                "type": "Link",
-                "label": "",
-                "url": "https://docs.netlify.com/create/overview",
-                "underline": "hover"
             }
         ]
     },
