@@ -6,9 +6,17 @@ sections:
     title: Vu Duc Le
     subtitle: Undergraduate Student
     text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/create/features/local-development)
+      I am Vu Duc Le, a passionate individual deeply immersed in the world of
+      web development and design. My journey began with an apprenticeship at
+      the  agency wwwe GmbH, where I specialized in Frontend and Web Design.
+      Here, I had the contributing to a range of diverse projects, allowing me
+      to refine my skills and a deep understanding of effective web development
+      practices. Currently, I am pursuing a Bachelor of Science in International
+      Media Informatics at HTW Berlin. I am familiar with a range of programming
+      languages and technologies, including PHP, JavaScript (both React and
+      Vanilla), CSS, HTML, and MySQL for database management. With a strong
+      sense of innovation and a commitment to excellence, I am poised to make
+      meaningful contributions to any team or project.
     actions:
       - type: Button
         label: Start Building
