@@ -39,7 +39,7 @@ sections:
       url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: Projects
     subtitle: Section subtitle here
     items:
       - type: Card
