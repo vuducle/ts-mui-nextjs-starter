@@ -78,10 +78,8 @@ sections:
           url: /images/ts.svg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Coded a website for a client back then in my apprenticeship as a web
+          designer. Won with a colleague the price "Web designer of the month".
         actions:
           - type: Button
             label: Read the Docs
