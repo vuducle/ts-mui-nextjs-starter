@@ -14,9 +14,7 @@ sections:
       practices. Currently, I am pursuing a Bachelor of Science in International
       Media and Computer Science at HTW Berlin. I am familiar with a range of
       programming languages and technologies, including PHP, JavaScript (both
-      React and Vanilla), CSS, HTML, and MySQL for database management. With a
-      strong sense of innovation and a commitment to excellence, I am poised to
-      make meaningful contributions to any team or project.
+      React and Vanilla), Java, CSS, HTML, and MySQL for database management. 
     actions:
       - type: Button
         label: Start Building
