@@ -50,7 +50,8 @@ sections:
           altText: First item image
         text: >
           Build in React with TypeScript Support. An App to adjust the
-          brightness, saturation or contrast of an image.
+          brightness, saturation or contrast of an image. Further features will
+          be implemented or not.
         actions:
           - type: Button
             label: To the App
