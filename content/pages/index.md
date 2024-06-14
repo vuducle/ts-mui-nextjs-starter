@@ -21,19 +21,7 @@ sections:
       Germany. I am familiar with a range of programming languages and
       technologies, including PHP, JavaScript (both React and Vanilla), Java,
       CSS, HTML, and MySQL for database management. Test
-    actions:
-      - type: Button
-        label: Start Building
-        url: 'https://docs.netlify.com/create/quickstart'
-        size: large
-        variant: contained
-        color: primary
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/create/overview'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/hero.svg
@@ -61,7 +49,7 @@ sections:
         title: Memory Game
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Bildschirmfoto 2024-06-14 um 12.57.40.png
           altText: Second item image
         text: >
           A small university projects, the cards reflect the TWICE members.

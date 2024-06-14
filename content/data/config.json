@@ -9,18 +9,6 @@
                 "label": "Home",
                 "url": "/",
                 "underline": "hover"
-            },
-            {
-                "type": "Link",
-                "label": "About",
-                "url": "/about",
-                "underline": "hover"
-            },
-            {
-                "type": "Link",
-                "label": "Documentation",
-                "url": "https://docs.netlify.com/create/overview",
-                "underline": "hover"
             }
         ]
     },
@@ -29,19 +17,19 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "GitHub",
                 "underline": "hover",
                 "url": "/"
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "LinkedIn",
                 "underline": "hover",
                 "url": "/about"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "",
                 "underline": "hover",
                 "url": "https://docs.netlify.com/create/overview"
             }
