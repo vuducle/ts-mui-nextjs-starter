@@ -53,7 +53,7 @@ sections:
           brightness, saturation or contrast of an image.
         actions:
           - type: Button
-            label: Read the Docs
+            label: To the App
             url: 'https://twice-image-filter.netlify.app/'
       - type: Card
         title: Second Card Title
