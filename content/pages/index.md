@@ -61,7 +61,7 @@ sections:
         title: Memory Game
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/Bildschirmfoto 2024-06-14 um 12.49.50.png
           altText: Second item image
         text: >
           A small university projects, the cards reflect the TWICE members.
