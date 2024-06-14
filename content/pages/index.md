@@ -6,9 +6,9 @@ sections:
     title: Vu Duc Le
     subtitle: Undergraduate Student
     text: >
-      I am Vu Duc Le, a passionate individual deeply immersed in the world of
-      web development and design. My journey began with an apprenticeship at
-      the  agency wwwe GmbH, where I specialized in Frontend and Web Design. 
+      A passionate individual deeply immersed in the world of web development
+      and design. My journey began with an apprenticeship at the agency wwwe
+      GmbH, where I specialized in Frontend and Web Design.
 
 
       Here, I had the contributing to a range of diverse projects, allowing me
