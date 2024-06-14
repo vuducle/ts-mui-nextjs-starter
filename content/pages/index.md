@@ -24,7 +24,7 @@ sections:
     actions: []
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/_9101713.JPG
       altText: Hero section image
   - type: CardsSection
     title: Projects
