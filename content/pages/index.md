@@ -75,7 +75,7 @@ sections:
         title: Restaurant Walhalla
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/Bildschirmfoto 2024-06-14 um 12.49.50.png
           altText: Third item image
         text: >
           Coded a website for a client back then in my apprenticeship as a web
