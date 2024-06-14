@@ -69,7 +69,7 @@ sections:
           background)
         actions:
           - type: Button
-            label: Read the Docs
+            label: To the page
             url: 'https://docs.netlify.com/create/overview'
       - type: Card
         title: Third Card Title
