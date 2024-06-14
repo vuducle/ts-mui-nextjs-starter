@@ -54,7 +54,7 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/create/overview'
+            url: 'https://twice-image-filter.netlify.app/'
       - type: Card
         title: Second Card Title
         image:
