@@ -64,10 +64,9 @@ sections:
           url: /images/mui-5.svg
           altText: Second item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          A small university projects, the cards reflect the TWICE members.
+          Coded in HTML & JS. (Attention: A music will be played in the
+          background)
         actions:
           - type: Button
             label: Read the Docs
