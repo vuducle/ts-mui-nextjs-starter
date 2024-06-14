@@ -20,7 +20,7 @@ sections:
       Computer Science at the HTW University of Applied Sciences, Berlin,
       Germany. I am familiar with a range of programming languages and
       technologies, including PHP, JavaScript (both React and Vanilla), Java,
-      CSS, HTML, and MySQL for database management.
+      CSS, HTML, and MySQL for database management. Test
     actions:
       - type: Button
         label: Start Building
