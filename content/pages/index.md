@@ -6,9 +6,9 @@ sections:
     title: Vu Duc Le
     subtitle: Undergraduate Student
     text: >
-      A passionate individual deeply immersed in the world of web development
-      and design. My journey began with an apprenticeship at the agency wwwe
-      GmbH, where I specialized in Frontend and Web Design.
+      A passionate individual immersed in the world of web development and
+      design. My journey began with an apprenticeship at the agency wwwe GmbH,
+      where I specialized in Frontend and Web Design.
 
 
       Here, I had the contributing to a range of diverse projects, allowing me
@@ -16,10 +16,11 @@ sections:
       practices.
 
 
-      Currently, I am pursuing a Bachelor of Science in International Media and
-      Computer Science at HTW Berlin. I am familiar with a range of programming
-      languages and technologies, including PHP, JavaScript (both React and
-      Vanilla), Java, CSS, HTML, and MySQL for database management.
+      Currently, I am an undergraduate student in International Media and
+      Computer Science at the HTW University of Applied Sciences, Berlin,
+      Germany. I am familiar with a range of programming languages and
+      technologies, including PHP, JavaScript (both React and Vanilla), Java,
+      CSS, HTML, and MySQL for database management.
     actions:
       - type: Button
         label: Start Building
