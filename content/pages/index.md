@@ -58,7 +58,7 @@ sections:
             url: 'https://twice-image-filter.netlify.app/'
             color: primary
       - type: Card
-        title: Second Card Title
+        title: Memory Game
         image:
           type: Image
           url: /images/mui-5.svg
