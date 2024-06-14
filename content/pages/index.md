@@ -58,7 +58,7 @@ sections:
         actions:
           - type: Button
             label: To the page
-            url: 'https://docs.netlify.com/create/overview'
+            url: 'https://golden-froyo-61f3a9.netlify.app'
       - type: Card
         title: Restaurant Walhalla
         image:
