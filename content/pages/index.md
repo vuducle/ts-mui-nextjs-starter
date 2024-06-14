@@ -82,6 +82,6 @@ sections:
           designer. Won with a colleague the price "Web designer of the month".
         actions:
           - type: Button
-            label: Read the Docs
+            label: To the page
             url: 'https://www.walhalla-wikingerrestaurant.de/'
 ---
