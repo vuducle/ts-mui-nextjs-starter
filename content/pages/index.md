@@ -40,7 +40,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Projects
-    subtitle: Section subtitle here
+    subtitle: Some coding Projects
     items:
       - type: Card
         title: Image Filter App
