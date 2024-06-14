@@ -55,6 +55,7 @@ sections:
           - type: Button
             label: To the App
             url: 'https://twice-image-filter.netlify.app/'
+            color: primary
       - type: Card
         title: Second Card Title
         image:
