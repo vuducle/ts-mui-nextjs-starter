@@ -43,7 +43,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: Image Filter App
         image:
           type: Image
           url: /images/Bildschirmfoto 2024-06-14 um 11.48.19.png
