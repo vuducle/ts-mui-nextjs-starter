@@ -49,10 +49,8 @@ sections:
           url: /images/Bildschirmfoto 2024-06-14 um 11.48.19.png
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Build in React with TypeScript Support. An App to adjust the
+          brightness, saturation or contrast of an image.
         actions:
           - type: Button
             label: Read the Docs
