@@ -58,7 +58,7 @@ sections:
         actions:
           - type: Button
             label: To the page
-            url: 'https://golden-froyo-61f3a9.netlify.app'
+            url: 'https://twice-image-filter.netlify.app/twice-memory.html'
       - type: Card
         title: Restaurant Walhalla
         image:
