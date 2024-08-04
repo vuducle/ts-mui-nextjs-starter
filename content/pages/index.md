@@ -37,7 +37,7 @@ sections:
           url: /images/Bildschirmfoto 2024-06-14 um 11.48.19.png
           altText: First item image
         text: >
-          Build in React with TypeScript Support. A App to adjust the
+          Build in React with TypeScript Support. An App to adjust the
           brightness, saturation or contrast of an image. Further features will
           be implemented or not.
         actions:
